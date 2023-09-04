@@ -2,57 +2,65 @@
 
 <strong>Features:</strong>
 
-Product Listing Page
+<ul>
+  
+<li>Product Listing Page</li>
 
-Sort and filter products
+<li>Sort and filter products</li>
 
-Sort by Price Low to High and High to Low
+<li>Sort by Price Low to High and High to Low</li>
 
-Filter using Minimum and Maximum Price Range
+<li>Filter using Minimum and Maximum Price Range</li>
 
-Filter by Book Genre Categories
+<li>Filter by Book Genre Categories</li>
 
-Filter by average product rating
+<li>Filter by average product rating</li>
 
-Filter products as per fast delivery availability
+<li>Filter products as per fast delivery availability</li>
 
-Clear all filters
+<li>Clear all filters</li>
 
-Wishlist Management
+<li>Wishlist Management</li>
 
-Add / remove from the wishlist
+<li>Add / remove from the wishlist</li>
 
-Add items to cart
+<li>Add items to cart</li>
 
-Cart Management
+<li>Cart Management</li>
 
-Add to cart
+<li>Add to cart</li>
 
-Change items quantity in cart
+<li>Change items quantity in cart</li>
 
-Remove from cart
+<li>Remove from cart</li>
 
-Add to wishlist from cart
+<li>Add to wishlist from cart</li>
 
-Single Product Page
+<li>Single Product Page</li>
 
-Order Summary of the ordered items
+<li>Order Summary of the ordered items</li>
 
-Orders page
+<li>Orders page</li>
 
-Search bar to search books by Book name and Author name
+<li>Search bar to search books by Book name and Author name</li>
 
-Pagination
+<li>Pagination</li>
+
+</ul>
 
 <strong>Technologies used:</strong>
 
-React Js
+<ul>
 
-Hooks
+<li>React Js</li>
 
-Redux 
+<li>Hooks</li>
 
-CSS
+<li>Redux</li>
+
+<li>CSS</li>
+
+</ul>
 
 # Output
 
