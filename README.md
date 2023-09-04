@@ -2,10 +2,6 @@
 
 <strong>Features:</strong>
 
-User Authentication (Signup, Login and Logout)
-
-Proper Landing page with categories and New Arrivals
-
 Product Listing Page
 
 Sort and filter products
@@ -17,8 +13,6 @@ Filter using Minimum and Maximum Price Range
 Filter by Book Genre Categories
 
 Filter by average product rating
-
-Filter to include/exclude out of stock products
 
 Filter products as per fast delivery availability
 
@@ -40,15 +34,9 @@ Remove from cart
 
 Add to wishlist from cart
 
-Apply Coupon
-
 Single Product Page
 
 Order Summary of the ordered items
-
-Custom Toast Component with 4 types - Success, Error, Warning and Information
-
-Razorpay payment Integration
 
 Orders page
 
