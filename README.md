@@ -44,6 +44,16 @@ Search bar to search books by Book name and Author name
 
 Pagination
 
+<strong>Technologies used:</strong>
+
+React Js
+
+Hooks
+
+Redux 
+
+CSS
+
 # Output
 
 ![IMG_20230824_000449](https://github.com/Maclynmac/demo1/assets/118000127/c0f13878-71c0-47f6-b94f-d99e4f6e992f)
