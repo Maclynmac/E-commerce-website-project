@@ -1,6 +1,6 @@
 <strong>Ecommerce Website Project</strong>
 
-<strong>Features:<strong>
+<strong>Features:</strong>
 
 User Authentication (Signup, Login and Logout)
 
