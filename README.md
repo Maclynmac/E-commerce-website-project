@@ -1,5 +1,6 @@
 <strong>Ecommerce Website Project</strong>
 
+<strong>Features:<strong>
 User Authentication (Signup, Login and Logout)
 Proper Landing page with categories and New Arrivals
 Product Listing Page
